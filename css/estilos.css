@@ -1,0 +1,19 @@
+.logo{
+    width: 100px;
+}
+
+body{
+    background: url(../assents/img/fondo.svg);
+    background-size: cover;
+    font-family: 'Bebas Neue', cursive;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+a :hover{
+    color: white; 
+}
